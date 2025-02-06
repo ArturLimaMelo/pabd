@@ -1,0 +1,4 @@
+cd "C:\Users\20221074010012\Documents\NetBeansProjects\ArturLimaMelo"
+git add .
+git commit -m "Mensagem"
+git push -u origin main
